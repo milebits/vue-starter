@@ -1,6 +1,12 @@
-# sfp-4.0-monitor
+# VueJS starter project with login and register pages
 
-## Project setup
+## Comment utiliser
+### Cloner le projet
+```bash
+git clone https://github.com/milebits/vue-starter.git
+```
+
+## Initiation du projet
 ```
 yarn install
 ```
